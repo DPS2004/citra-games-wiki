@@ -1,0 +1,9 @@
+title = "Hako Boy! HakoZume Box"
+description = "A Japan exclusive compilation of all 3 BoxBoy! games, developed by HAL LABS. Genre is puzzle platformer"
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001AD400"
+region = "jpn"
+release_date = "2017-02-02"
